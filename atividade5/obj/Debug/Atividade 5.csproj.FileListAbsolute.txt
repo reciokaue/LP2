@@ -1,0 +1,10 @@
+C:\Users\0030482221030\Desktop\Atividade 5\obj\Debug\Atividade 5.csprojAssemblyReference.cache
+C:\Users\0030482221030\Desktop\Atividade 5\obj\Debug\Atividade_5.Form1.resources
+C:\Users\0030482221030\Desktop\Atividade 5\obj\Debug\Atividade_5.Properties.Resources.resources
+C:\Users\0030482221030\Desktop\Atividade 5\obj\Debug\Atividade 5.csproj.GenerateResource.cache
+C:\Users\0030482221030\Desktop\Atividade 5\obj\Debug\Atividade 5.csproj.CoreCompileInputs.cache
+C:\Users\0030482221030\Desktop\Atividade 5\bin\Debug\Atividade 5.exe.config
+C:\Users\0030482221030\Desktop\Atividade 5\bin\Debug\Atividade 5.exe
+C:\Users\0030482221030\Desktop\Atividade 5\bin\Debug\Atividade 5.pdb
+C:\Users\0030482221030\Desktop\Atividade 5\obj\Debug\Atividade 5.exe
+C:\Users\0030482221030\Desktop\Atividade 5\obj\Debug\Atividade 5.pdb
