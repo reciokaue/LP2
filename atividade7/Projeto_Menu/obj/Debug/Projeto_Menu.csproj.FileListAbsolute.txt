@@ -1,0 +1,11 @@
+C:\Users\0030482221030\Desktop\Projeto_Menu\bin\Debug\Projeto_Menu.exe.config
+C:\Users\0030482221030\Desktop\Projeto_Menu\bin\Debug\Projeto_Menu.exe
+C:\Users\0030482221030\Desktop\Projeto_Menu\bin\Debug\Projeto_Menu.pdb
+C:\Users\0030482221030\Desktop\Projeto_Menu\obj\Debug\Projeto_Menu.csprojAssemblyReference.cache
+C:\Users\0030482221030\Desktop\Projeto_Menu\obj\Debug\Projeto_Menu.Form1.resources
+C:\Users\0030482221030\Desktop\Projeto_Menu\obj\Debug\Projeto_Menu.Properties.Resources.resources
+C:\Users\0030482221030\Desktop\Projeto_Menu\obj\Debug\Projeto_Menu.csproj.GenerateResource.cache
+C:\Users\0030482221030\Desktop\Projeto_Menu\obj\Debug\Projeto_Menu.csproj.CoreCompileInputs.cache
+C:\Users\0030482221030\Desktop\Projeto_Menu\obj\Debug\Projeto_Menu.exe
+C:\Users\0030482221030\Desktop\Projeto_Menu\obj\Debug\Projeto_Menu.pdb
+C:\Users\0030482221030\Desktop\Projeto_Menu\obj\Debug\Projeto_Menu.FormExercicio2.resources
