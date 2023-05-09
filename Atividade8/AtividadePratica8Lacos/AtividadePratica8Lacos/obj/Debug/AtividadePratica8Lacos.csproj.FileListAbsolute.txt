@@ -1,0 +1,26 @@
+D:\AtividadePratica8Lacos\AtividadePratica8Lacos\bin\Debug\AtividadePratica8Lacos.exe.config
+D:\AtividadePratica8Lacos\AtividadePratica8Lacos\bin\Debug\AtividadePratica8Lacos.exe
+D:\AtividadePratica8Lacos\AtividadePratica8Lacos\bin\Debug\AtividadePratica8Lacos.pdb
+D:\AtividadePratica8Lacos\AtividadePratica8Lacos\obj\Debug\AtividadePratica8Lacos.csprojAssemblyReference.cache
+D:\AtividadePratica8Lacos\AtividadePratica8Lacos\obj\Debug\AtividadePratica8Lacos.Form1.resources
+D:\AtividadePratica8Lacos\AtividadePratica8Lacos\obj\Debug\AtividadePratica8Lacos.Properties.Resources.resources
+D:\AtividadePratica8Lacos\AtividadePratica8Lacos\obj\Debug\AtividadePratica8Lacos.csproj.GenerateResource.cache
+D:\AtividadePratica8Lacos\AtividadePratica8Lacos\obj\Debug\AtividadePratica8Lacos.csproj.CoreCompileInputs.cache
+D:\AtividadePratica8Lacos\AtividadePratica8Lacos\obj\Debug\AtividadePratica8Lacos.exe
+D:\AtividadePratica8Lacos\AtividadePratica8Lacos\obj\Debug\AtividadePratica8Lacos.pdb
+D:\AtividadePratica8Lacos\AtividadePratica8Lacos\obj\Debug\AtividadePratica8Lacos.frmExercicio1.resources
+D:\AtividadePratica8Lacos\AtividadePratica8Lacos\obj\Debug\AtividadePratica8Lacos.frmExercicio2.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\AtividadePratica8Lacos\AtividadePratica8Lacos\bin\Debug\AtividadePratica8Lacos.exe.config
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\AtividadePratica8Lacos\AtividadePratica8Lacos\bin\Debug\AtividadePratica8Lacos.exe
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\AtividadePratica8Lacos\AtividadePratica8Lacos\bin\Debug\AtividadePratica8Lacos.pdb
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\AtividadePratica8Lacos\AtividadePratica8Lacos\obj\Debug\AtividadePratica8Lacos.csproj.AssemblyReference.cache
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\AtividadePratica8Lacos\AtividadePratica8Lacos\obj\Debug\AtividadePratica8Lacos.Form1.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\AtividadePratica8Lacos\AtividadePratica8Lacos\obj\Debug\AtividadePratica8Lacos.frmExercicio1.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\AtividadePratica8Lacos\AtividadePratica8Lacos\obj\Debug\AtividadePratica8Lacos.frmExercicio2.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\AtividadePratica8Lacos\AtividadePratica8Lacos\obj\Debug\AtividadePratica8Lacos.frmExercicio3.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\AtividadePratica8Lacos\AtividadePratica8Lacos\obj\Debug\AtividadePratica8Lacos.Properties.Resources.resources
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\AtividadePratica8Lacos\AtividadePratica8Lacos\obj\Debug\AtividadePratica8Lacos.csproj.GenerateResource.cache
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\AtividadePratica8Lacos\AtividadePratica8Lacos\obj\Debug\AtividadePratica8Lacos.csproj.CoreCompileInputs.cache
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\AtividadePratica8Lacos\AtividadePratica8Lacos\obj\Debug\AtividadePratica8Lacos.exe
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\AtividadePratica8Lacos\AtividadePratica8Lacos\obj\Debug\AtividadePratica8Lacos.pdb
+C:\Users\Mariana Parducci\OneDrive - Fatec Centro Paula Souza\2 Semestre\LP 2\AtividadePratica8Lacos\AtividadePratica8Lacos\obj\Debug\AtividadePratica8Lacos.frmExercicio4.resources
